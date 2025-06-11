@@ -7,7 +7,7 @@ Currently diving deep into chat applications, live sports platforms, and scalabl
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: JavaScript, TypeScript, Python, Kotlin
+- 💻 Languages: JavaScript, TypeScript, Python, C++
 - 🧩 Frameworks: React, Next.js, Django REST Framework, Node.js
 - ☁️ Cloud & DevOps: Vercel, Render, Cloudinary, MongoDB Atlas
 - 🧪 Testing & Tools: Postman, Git, GitHub, VS Code
