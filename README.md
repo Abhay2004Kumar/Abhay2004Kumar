@@ -15,7 +15,7 @@ Currently diving deep into chat applications, live sports platforms, and scalabl
 ## 🔥 Projects
 - 🚀 [Django Chat App](https://github.com/Abhay2004Kumar/Django-Chat-Rooms) – Real-time chat app with JWT auth and Cloudinary support.
 - 🔗 [Short URL](https://github.com/Abhay2004Kumar/shortUrl) – Next.js URL shortener with dynamic UI.
-- 📺 [*Twitty-Tube*](https://github.com/Abhay2004Kumar/Twitty-Tube) – A unified platform to search and watch trending content from both YouTube and Twitter, using React and third-party APIs.
+- 📺 [*Twitty-Tube*](https://github.com/Abhay2004Kumar/Twitty-Tube) – A backend sulysten to search and watch trending content from both YouTube and Twitter, using Node.js.
 
 ## 🧑‍💻 Contributed Projects
 - 🏏 [**Top Scorer – Live Sports Website**](https://github.com/Abhay2004Kumar/top_scorer) – Contributed to a live sports app with real-time score updates and match predictions.  
