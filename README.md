@@ -9,8 +9,8 @@ Currently diving deep into chat applications, live sports platforms, and scalabl
 ## 🛠 Tech Stack
 - 💻 Languages: JavaScript, TypeScript, Python, C++
 - 🧩 Frameworks: React, Next.js, Django REST Framework, Node.js
-- ☁ Cloud & DevOps: Vercel, Render, Cloudinary, MongoDB Atlas
-- 🧪 Testing & Tools: Postman, Git, GitHub, VS Code
+- ☁ Cloud & DevOps: Vercel, Render, Cloudinary, MongoDB Atlas, Redis Caching
+- 🧪 Testing & Tools: Postman, Git, GitHub, VS Code, Docker 
 
 ## 🔥 Projects
 - 🚀 [Django Chat App](https://github.com/Abhay2004Kumar/Django-Chat-Rooms) – Real-time chat app with JWT auth and Cloudinary support.
