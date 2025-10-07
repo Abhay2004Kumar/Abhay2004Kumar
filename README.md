@@ -66,6 +66,13 @@ With deep experience in both **SQL and NoSQL databases**, I leverage modern ORMs
 >
 > **[🔗 GitHub Repository](https://github.com/Abhay2004Kumar/top_scorer) | [🔴 Live Link](https://top-scorer-ecru.vercel.app/)**
 
+### 🎥 FlickMate – Live Sports Platform
+> FlickMate is a modern, feature-rich movie discovery and community platform built with Next.js, TypeScript, and Prisma. Discover trending movies, participate in discussions, vote in polls, and connect with other movie enthusiasts.
+>
+> **Tech Stack:** React, Next.js 15, Prisma ORM with MongoDB, Gemini AI, Tailwind CSS
+>
+> **[🔴 Live Link](https://flickmate-nine.vercel.app/)** 
+
 ### 💊 ArogyaRX – Telemedicine Platform
 > Developed and maintained key frontend and backend features for a comprehensive telemedicine and prescription management platform. My work helped streamline patient-doctor interactions and improve the overall user experience.
 >
@@ -81,7 +88,7 @@ I'm always open to discussing new projects, collaborating on ideas, or just chat
   <a href="https://www.linkedin.com/in/abhay-kumar-74b16124a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://abhay-kumar-pfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-lac-psi-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abhay220504.business@gmail.com">
