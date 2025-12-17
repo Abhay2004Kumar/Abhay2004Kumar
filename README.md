@@ -66,7 +66,7 @@ With deep experience in both **SQL and NoSQL databases**, I leverage modern ORMs
 >
 > **[🔗 GitHub Repository](https://github.com/Abhay2004Kumar/top_scorer) | [🔴 Live Link](https://top-scorer-ecru.vercel.app/)**
 
-### 🎥 FlickMate – Live Sports Platform
+### 🎥 FlickMate – Movie Lovers Platform
 > FlickMate is a modern, feature-rich movie discovery and community platform built with Next.js, TypeScript, and Prisma. Discover trending movies, participate in discussions, vote in polls, and connect with other movie enthusiasts.
 >
 > **Tech Stack:** React, Next.js 15, Prisma ORM with MongoDB, Gemini AI, Tailwind CSS
